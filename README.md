@@ -1,6 +1,6 @@
 # NCBI COG Classifier
 
-A Python tool for classifying protein sequences using the NCBI COG (Clusters of Orthologous Groups) database.
+A Python tool for classifying protein sequences using the NCBI COG (Clusters of Orthologous Groups) database. Here is a project I did during my summer school at the EMSL PNNL exploring the agentic AI tools.
 
 ## Overview
 
